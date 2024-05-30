@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/lucasneo/Documents/GitHub/Linguagem-C/Árvores/Insercao2"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _inserir, symObjAddr: 0x0, symBinAddr: 0x100003D18, symSize: 0xE8 }
+  - { offsetInCU: 0x8A, offset: 0x8A, size: 0x8, addend: 0x0, symName: _inserir, symObjAddr: 0x0, symBinAddr: 0x100003D18, symSize: 0xE8 }
+  - { offsetInCU: 0xDC, offset: 0xDC, size: 0x8, addend: 0x0, symName: _imprimir, symObjAddr: 0xE8, symBinAddr: 0x100003E00, symSize: 0x6C }
+  - { offsetInCU: 0x100, offset: 0x100, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x154, symBinAddr: 0x100003E6C, symSize: 0xD8 }
+...
